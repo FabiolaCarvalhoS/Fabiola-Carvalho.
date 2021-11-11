@@ -1,0 +1,63 @@
+body{
+    background-color: #FBDCE4;
+    font-family: 'Hind', sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+div a{
+    color: red;
+    font-family: Comic;     
+    text-transform: capitalize; 
+    font-size: 15px;
+}
+
+header h2{
+    color: black;
+    font-family: Comic;     
+    text-transform: capitalize; 
+    font-size: 30x;
+    background-color: #F8B4C9;
+    font-size: 25px;
+    line-height: 20px;
+    text-decoration: underline;
+    text-align: center;  
+}
+
+div p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize; 
+    font-size: 14px;
+}
+
+p strong{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize; 
+    font-size: 12px;
+}
+
+mark{
+    background-color:#ADC9C3;
+    font-style: italic;
+    font-size: 12px;
+}
+
+div p a{
+    color: black;
+    font-family: Comic;     
+    text-transform: capitalize; 
+    font-size: 12px;
+}
+
+abbr{
+    color:green;
+    font-style: italic;
+    text-decoration:underline;
+}
+
+a{
+    color: black;
+    font-size: 12px;
+}

@@ -1,0 +1,80 @@
+body {
+    background-color: #F2D1CE;
+    font-size: 16px;
+    font-family: 'Hind', sans-serif; 
+    text-decoration: justify;
+    text-transform: capitalize;
+    display: inline;
+    align-items: center;
+}
+
+header h1 {
+    text-align: center;
+    font-style: normal;
+    padding-top: 20px;
+}
+li{
+    list-style: none ;
+    text-align:left;
+    text-align: center;
+    
+}
+div{
+    display: inline-block;
+}
+
+h1 {
+    color: black;
+}
+
+h3 {
+    text-align: center;
+}
+
+section h3 {
+    margin-left: 20px;
+}
+
+section p {
+    margin: 15px;
+    text-align: center;
+    font-size: 0.875em; 
+}
+
+div, p{
+    display: inline-block;
+}
+section>div {
+   
+    margin: 10px auto;
+    width: 380px;
+
+}
+
+
+ul {
+    padding:5px;
+}
+
+a {
+    text-decoration: underline;
+}
+
+ header {
+    background-color: #BF8080;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    background-color: #000;
+}
+
+section {
+    position: relative;
+    background-color:#A66A75;
+    margin: 5px;
+    padding: 5px 2px 5px 2px;
+}
+
+
